@@ -1,4 +1,4 @@
-// +build 386, arm, amd64, arm64
+// +build 386 arm amd64 arm64
 
 package binp
 
