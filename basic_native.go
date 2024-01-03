@@ -1,4 +1,5 @@
-// +build 386, arm, amd64
+//go:build (386 && ignore) || (arm && ignore) || (amd64 && ignore) || arm64
+// +build 386,ignore arm,ignore amd64,ignore arm64
 
 package binp
 
